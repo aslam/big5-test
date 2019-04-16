@@ -17,11 +17,11 @@ class BigFiveResultsTextSerializer
         end
 
         File.open(@file_path).readlines.each do |line|
-            scores = line.split(',').each_slice(2).to_a
+            scores = line.rstrip.split(',').each_slice(2).to_a
             domain = scores.shift
             results[domain.first] = { "Overall Score" => domain[1].to_i }
 
-            results[domain.first]['Facets'] = Hash[scores]
+            results[domain.first]['Facets'] = Hash[scores.collect { |facet| [facet[0], facet[1].to_i] }]
         end
 
         results
