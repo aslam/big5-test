@@ -1,0 +1,98 @@
+Domain/Facet...... Score
+
+EXTRAVERSION.........38
+
+Friendliness.........65
+
+Gregariousness.......46
+
+Assertiveness........54
+
+Activity Level.......38
+
+Excitement-Seeking...26
+
+Cheerfulness.........18
+
+'EXTRAVERSION',38,'Friendliness',65,'Gregariousness',46,'Assertiveness',54,'Activity Level',38,'Excitement-Seeking',26,'Cheerfulness',18
+
+
+Domain/Facet...... Score
+
+AGREEABLENESS...70
+
+Trust...........61
+
+Morality........72
+
+Altruism........80
+
+Cooperation.....26
+
+Modesty.........74
+
+Sympathy........73
+
+
+'AGREEABLENESS',70,'Trust',61,'Morality',72,'Altruism',80,'Cooperation',26,'Modesty',74,'Sympathy',73
+
+
+Domain/Facet...... Score
+
+CONSCIENTIOUSNESS......51
+
+Self-Efficacy..........52
+
+Orderliness............66
+
+Dutifulness............54
+
+Achievement-Striving...56
+
+Self-Discipline........47
+
+Cautiousness...........30
+
+
+'CONSCIENTIOUSNESS',51,'Self-Efficacy',52,'Orderliness',66,'Dutifulness',54,'Achievement-Striving',56,'Self-Discipline',47,'Cautiousness',30
+
+
+Domain/Facet...... Score
+
+NEUROTICISM..........76
+
+Anxiety..............81
+
+Anger................68
+
+Depression...........55
+
+Self-Consciousness...48
+
+Immoderation.........68
+
+Vulnerability........92
+
+
+'NEUROTICISM',76,'Anxiety',81,'Anger',68,'Depression',55,'Self-Consciousness',48,'Immoderation',68,'Vulnerability',92
+
+
+Domain/Facet...... Score
+
+OPENNESS TO EXPERIENCE...48
+
+Imagination..............39
+
+Artistic Interests.......78
+
+Emotionality.............54
+
+Adventurousness..........38
+
+Intellect................18
+
+Liberalism...............62
+
+
+'OPENNESS TO EXPERIENCE',48,Imagination,39,'Artistic Interests',78,Emotionality,54,Adventurousness,38,Intellect,18,Liberalism,62
+
