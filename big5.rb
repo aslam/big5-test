@@ -25,6 +25,14 @@ if !email
     email = gets.chomp
 end
 
+if email == ''
+    puts "Can't post without your email."
+    puts "Either pass in as a command-line argument or enter when prompted."
+    puts
+    fail "Usage: $> ruby big5.rb [email]"
+    exit(1)
+end
+
 poster = BigFiveResultsPoster.new(results, email)
 response = poster.post
 
